@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    
+    background: #b92b27;  
+background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  
+background: linear-gradient(to right, #1565C0, #b92b27);
+    
+color: white;
+padding-top: 10px;
+
+}
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+body{
+    background-size: cover;
+    
+}
